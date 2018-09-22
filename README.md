@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to We Right Code
 
-You can use the [editor on GitHub](https://github.com/werightcode/werightcode.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our mission is to help grow the community by providing thoughtful feedback on PRs for individuals as well as businesses. Our goal is to teach and grow individuals and organizations in their engineering practices without shaming them. Compassion for ourselves and others is our ultimate concern.
 
-### Markdown
+### How will you do this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our PR review process will focus on lowering cognitive load by way of increasing readability and reducing complexity scores. As part of the review process, we will point out common gotchas as well including leaking information, side affects, overly complex conditionals, and the occasional outright bug. As we solidify our process, we will begin writing publically about how we perform reviews as well as speaking at conferences on the topic.
 
-```markdown
-Syntax highlighted code block
+### Currently iterating on ideas
 
-# Header 1
-## Header 2
-### Header 3
+We are still working through a business plan at this time, so details will be forthcoming. In the interim, we will hand select individuals from the developer community to provide pro-bono reviews on PRs to demononstrate our values and build a local presence.
 
-- Bulleted
-- List
+### Want to see where this goes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/werightcode/werightcode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+While the idea is in its infancy, feel free to follow us @werightcode on Twitter where we'll make most of the announcements. The account was just setup by @baseLogiK, so there isn't much content yet. It may seem sketchy, but we'll address this. You have his word. If you want to take part either in receiving feedback on PRs, please send us a DM. After we build out a minimum code of conduct, we'll start to consider opening the doors for other partners in this venture who are like minded in wanting to mentor with compassion.
